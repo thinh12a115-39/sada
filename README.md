@@ -8,6 +8,7 @@
     <ul >
       </li>
     </ul > Giới thiệu về trí tuệ nhân tạo
+    </ul
     </li>
     <li> MANG MAY TINH VA INTERNET
     <ul>
